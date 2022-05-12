@@ -1,0 +1,15 @@
+pkgbase = python-freetype-py
+	pkgdesc = FreeType Python bindings
+	pkgver = 2.2.0
+	pkgrel = 3
+	url = https://github.com/rougier/freetype-py/
+	arch = any
+	license = BSD
+	makedepends = python-setuptools
+	makedepends = python-setuptools-scm
+	depends = python
+	depends = freetype2
+	source = https://files.pythonhosted.org/packages/source/f/freetype-py/freetype-py-2.2.0.zip
+	sha512sums = d8bfd785b488dfe5cf06a19d2f4f6cd8c77dbd3ba6de3aa250fb7c22fe75087e1ef2b8fbff5ca40c17d671ee2f155bb74619a26c9c87fefd75d6e5e13ba259eb
+
+pkgname = python-freetype-py
